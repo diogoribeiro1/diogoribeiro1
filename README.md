@@ -1,7 +1,7 @@
 ### Oii!! Eu sou o Diogo Ribeiro
 
 - 🔭 Hoje estou trabalhando como freelancer.
-- 🌱 Estudando JavaScript e TypeScript.
+- 🌱 Estudando Java e Spring.
 - 📫 Contate-me no email: diogoribeiro698@gmail.com
 - 😄 Pronouns: ele/dele.
 
