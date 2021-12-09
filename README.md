@@ -1,6 +1,6 @@
 ### Oii!! Eu sou o Diogo Ribeiro
 
-- 🔭 Hoje estou trabalhando como freelancer.
+- 🔭 Hoje estou cursando Engenharia de Software e Desenvolvimento de Sistemas.
 - 🌱 Estudando Java e Spring.
 - 📫 Contate-me no email: diogoribeiro698@gmail.com
 - 😄 Pronouns: ele/dele.
