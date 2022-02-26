@@ -1,8 +1,8 @@
 ### Oii!! Eu sou o Diogo Ribeiro
 
-- 🔭 Hoje estou cursando Engenharia de Software e Desenvolvimento de Sistemas.
-- 🌱 Estudando Java e Spring.
-- 📫 Contate-me no email: diogoribeiro698@gmail.com
+- 🔭 Today I am studying Software Engineering and Systems Development.
+- 🌱 Studying Java, Spring and Angular.
+- 📫 Contact me on email: diogoribeiro698@gmail.com
 - 😄 Pronouns: ele/dele.
 
 - <div>
