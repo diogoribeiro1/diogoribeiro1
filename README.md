@@ -1,4 +1,4 @@
-### Hii!! I'm Diogo Ribeiro
+### Hi, I'm Diogo Ribeiro
 
 - 🔭 Today I am studying Software Engineering and Systems Development.
 - 🌱 Studying Java, Spring and Angular.
