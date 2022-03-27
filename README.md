@@ -1,7 +1,7 @@
 ### Hi, I'm Diogo Ribeiro
 
 - 🔭 Today I am studying Software Engineering and Systems Development.
-- 🌱 Studying Java, Spring, Microservices.
+- 🌱 Studying Java, Spring and Microservices.
 - 📫 Contact me on email: diogoribeiro698@gmail.com
 - 😄 Pronouns: ele/dele.
 
