@@ -1,6 +1,6 @@
 ### Hi, I'm Diogo Ribeiro
 
-- 🔭 Today I am studying Software Engineering and Systems Development.
+- 🔭 Today I am studying Software Engineering and I have a degree in Systems Development technician.
 - 🌱 Studying Java, C#, .Net, Spring and API Rest.
 - 📫 Contact me on email: diogoribeiro698@gmail.com
 - 😄 Pronouns: ele/dele.
