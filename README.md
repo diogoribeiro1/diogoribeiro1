@@ -3,7 +3,7 @@
 - 🔭 Today I am studying Software Engineering and I have a degree in Systems Development technician.
 - 🌱 Studying Java, PHP, Laravel, Spring, Ajax and Web Services.
 - 📫 Contact me on email: diogoribeiro698@gmail.com
-- 😄 Pronouns: ele/dele.
+- 😄 Pronouns: He/him.
 
 - <div>
   <a href="https://github.com/diogoribeiro1">
