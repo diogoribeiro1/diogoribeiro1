@@ -1,7 +1,7 @@
 ### Hi, I'm Diogo Ribeiro
 
 - 🔭 Today I am studying Software Engineering and I have a degree in Systems Development technician.
-- 🌱 Experience with Vue, Java, PHP, Laravel, Spring, Docker, Ajax and Web Services.
+- 🌱 Experience with Vue, Java, PHP, Laravel, Spring, Docker, Ajax, Jquery and Web Services.
 - 📫 Contact me on email: diogoribeiro698@gmail.com
 - 😄 Pronouns: He/him.
 
