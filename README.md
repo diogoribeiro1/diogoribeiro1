@@ -1,6 +1,6 @@
 ### Diogo Ribeiro
 
-Software engineer with experience in **Clojure**, **Java**, and **C#**, working with **Oracle Cloud** and backend development. My main interests include **functional programming**, **type theory**, **category theory**, **compilers**, and **programming language design**. I focus on building scalable and efficient systems, applying theoretical concepts to practical problems.  
+Software engineer with experience in **Clojure**, **Java**, and **C#**, working with **Oracle Cloud** and backend development. My main interests include **functional programming**, **type theory**, **category theory**, **compilers**, **programming language design**, **data analysis**, and **statistics**. I focus on building scalable and efficient systems, applying theoretical concepts to practical problems.
 
 ### Work & Publications  
 
