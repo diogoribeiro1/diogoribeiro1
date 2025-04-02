@@ -1,6 +1,6 @@
 ### Diogo Ribeiro
 
-Software engineer with experience in **Clojure**, **Java**, and **C#**, working with **Oracle Cloud** and backend development. My main interests include **functional programming**, **type theory**, **category theory**, **compilers**, **programming language design**, **data analysis**, and **statistics**. I focus on building scalable and efficient systems, applying theoretical concepts to practical problems.
+I’m a software engineer who thrives at the intersection of theory and practice. With expertise in Clojure, Java, and C#, I build scalable backend systems—currently powering solutions on Oracle Cloud. I’m passionate about functional programming, compilers, and data analysis, and I love turning complex ideas from type theory and category theory into real-world code.
 
 ### Work & Publications  
 
@@ -17,3 +17,6 @@ Software engineer with experience in **Clojure**, **Java**, and **C#**, working 
 <a href = "mailto:diogoribeiro698@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diogo-ribeiro-3864b721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+### Looking Forward  
+I’m always excited to collaborate on challenging problems in functional programming, backend systems, or compiler design. Got an idea or opportunity? Let’s talk!
