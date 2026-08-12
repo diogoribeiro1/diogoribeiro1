@@ -1,6 +1,6 @@
 ### Diogo Ribeiro
 
-I’m a software engineer who thrives at the intersection of theory and practice. With expertise in C# and Java. 
+I’m a software engineer who thrives at the intersection of theory and practice.
 I’m passionate about functional programming, compilers, and data analysis, and I love turning complex ideas from type theory and category theory into real-world code.
 
 ### Work & Publications  
